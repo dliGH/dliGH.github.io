@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Li</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Derek Li</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world!</title>
+      <link>http://localhost:1313/blog/hello-world/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <description>Finally a personal website that I like</description>
+    </item>
+    <item>
+      <title>about me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Derek.&lt;/p&gt;&#xA;&lt;p&gt;I recently graduated from the University of Chicago with degrees in Financial Mathematics, Computer Science, and Economics. My professional background spans data science, machine learning, and software engineering in domains such as computational biology, aerospace embedded systems, financial crimes modeling, and bank treasury.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently most interested in algorithmic trading and systematic investing.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

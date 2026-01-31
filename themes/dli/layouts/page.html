@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+<!--
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+ <i><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></i> -->
+
+  <p><i>{{ .Date | time.Format ":date_long" }}, {{ .ReadingTime }} min read</i></p>
+
+  {{ .Content }}
+
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+  {{ $backpath := path.Base (path.Dir (path.Dir .RelPermalink)) }}
+
+  <p><a href="{{ .Parent.RelPermalink }}">← Back to {{ $backpath }}</a></p>
+
+
+{{ end }}

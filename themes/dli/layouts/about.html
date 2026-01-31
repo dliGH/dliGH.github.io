@@ -1,0 +1,13 @@
+{{ define "main" }}
+   
+   <h1>{{ .Title }}</h1>
+   <div style="display: flex; gap: 30px; align-items: flex-start;">
+         <div style="flex: 1;">
+            {{ .Content }}
+         </div>
+         {{ if .Params.image }}
+         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="max-width: 300px; height: auto; flex-shrink: 0;">
+         {{ end }}
+      </div>
+
+{{ end }}

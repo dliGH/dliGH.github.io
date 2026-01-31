@@ -1,0 +1,28 @@
+baseURL = 'https://yourname.github.io/'
+languageCode = 'en-us'
+title = 'Derek Li'
+theme = 'dli'
+
+[params]
+    authorName = 'Derek Li'
+
+[menus]
+    [[menus.main]]
+        name = 'about'
+        url = '/about'
+        weight = 10
+
+    [[menus.main]]
+        name = 'blog'
+        url = '/blog' 
+        weight = 20
+
+    [[menus.main]]
+        name = 'projects'
+        url = '/projects' 
+        weight = 30
+
+    [[menus.main]]
+        name = 'contact'
+        url = '/contact'
+        weight = 40
