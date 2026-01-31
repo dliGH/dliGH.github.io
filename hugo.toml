@@ -1,4 +1,4 @@
-baseURL = 'https://yourname.github.io/'
+baseURL = 'https://dligh.github.io/'
 languageCode = 'en-us'
 title = 'Derek Li'
 theme = 'dli'
@@ -26,3 +26,7 @@ theme = 'dli'
         name = 'contact'
         url = '/contact'
         weight = 40
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
