@@ -8,7 +8,7 @@
     <section>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
       {{ .Summary }}
-      <p><i>{{ .Date | time.Format ":date_long" }}; {{ .ReadingTime }} min read</i></p>
+      <p>{{ .Date | time.Format "2006年1月2日" }}; {{ .ReadingTime }} min read</p>
     </section>
   {{ end }}
 

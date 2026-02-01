@@ -8,7 +8,7 @@
   {{ $dateHuman := .Date | time.Format ":date_long" }}
  <i><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></i> -->
 
-  <p><i>{{ .Date | time.Format ":date_long" }}; {{ .ReadingTime }} min read</i></p>
+  <p>{{ .Date | time.Format "2006年1月2日" }}</p>
 
   {{ .Content }}
 
