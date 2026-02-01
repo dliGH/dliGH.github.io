@@ -1,7 +1,7 @@
 ---
 title: "about me"
 layout: "about"
-image: "images/me.jpeg"
+image: "images/me.webp"
 ---
 
 Hi, I'm Derek.
