@@ -2,6 +2,8 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
     <style>
         html, body { 
@@ -16,11 +18,24 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+            padding: 20px;
         }
         .banner { width: 100%; max-width: 600px; height: auto; margin: 20px 0; }
-        nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 30px; }
+        nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; }
         nav a { text-decoration: none; color: #000000; font-weight: bold; }
         nav a:hover { text-decoration: underline; }
+        
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            h1 { font-size: 24px; }
+            .banner { max-width: 90vw; }
+            nav ul { gap: 15px; }
+            nav a { font-size: 14px; }
+        }
+
+        @media (orientation: landscape) {
+            .banner { max-height:50vh; width: auto; }
+        }
     </style>
 </head>
 
@@ -28,7 +43,7 @@
     <h1>{{ .Site.Params.authorName | default "Your Name" }}</h1>
     <img src="/images/banner.webp" alt="banner" class="banner">
     <nav>
-        <ul style="display: flex; gap: 20px; list-style: none; justify-content: center;">
+        <ul>
             {{ range .Site.Menus.main }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}

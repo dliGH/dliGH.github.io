@@ -1,7 +1,15 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+
+  <h1><a href="{{ .Parent.RelPermalink }}" style="text-decoration: none; color: #000000;">{{ lower .Title }}</a></h1>
+  
   {{ .Content }}
+
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <section>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Summary }}
+      <p><i>{{ .Date | time.Format ":date_long" }}; {{ .ReadingTime }} min read</i></p>
+    </section>
   {{ end }}
+
 {{ end }}

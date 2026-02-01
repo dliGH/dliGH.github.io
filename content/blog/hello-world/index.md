@@ -2,6 +2,7 @@
 title: "hello world!"
 summary: "Finally a personal website that I like"
 date: "2026-01-30"
+tags: ["personal"]
 ---
 
 I've been wanting to publish a personal website for as long as I remember, and finally it's here.

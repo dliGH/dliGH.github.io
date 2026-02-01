@@ -10,4 +10,17 @@
          {{ end }}
       </div>
 
+   <style>
+      @media (max-width: 768px) and (orientation: portrait) {
+         div[style*="display: flex"] {
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+         }
+         img {
+            max-width: 300px !important;
+         }
+      }
+   </style>
+
 {{ end }}
