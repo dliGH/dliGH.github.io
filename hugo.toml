@@ -27,6 +27,7 @@ theme = 'dli'
         url = '/contact'
         weight = 40
 
-[caches]
-    [caches.images]
-        dir = ':cacheDir/images'
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+enableGitInfo = true
