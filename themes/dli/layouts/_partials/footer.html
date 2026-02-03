@@ -1,1 +1,12 @@
-<!-- <p>Copyright {{ now.Year }} {{ .Site.Params.authorName | default "" }}. All rights reserved. All opinions are mine alone.</p> -->
+<p>
+Last updated: 
+{{ if .GitInfo }}
+    {{ .GitInfo.AuthorDate.Format "2006年01月02日 15:04:05" }}
+{{ else if .Lastmod }}
+    {{ .Lastmod.Format "2006年01月02日 15:04:05" }}
+{{ else }}
+    {{ .Date.Format "2006年01月02日 15:04:05" }}
+{{ end }}
+</p>
+  <!-- <p>Copyright {{ now.Year }} {{ .Site.Params.authorName | default "" }}. All rights reserved. All opinions are mine alone.</p> -->
+
