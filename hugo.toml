@@ -2,6 +2,7 @@ baseURL = 'https://derekli.xyz/'
 languageCode = 'en-us'
 title = 'Derek Li'
 theme = 'dli'
+enableGitInfo = true
 
 [params]
     authorName = 'Derek Li'
@@ -29,5 +30,3 @@ theme = 'dli'
 
 [frontmatter]
   lastmod = ["lastmod", ":git", "date", "publishDate"]
-
-enableGitInfo = true
