@@ -1,24 +1,37 @@
 {{ define "main" }}
    
    <h1>{{ .Title }}</h1>
-   <div style="display: flex; gap: 30px; align-items: flex-start;">
-         <div style="flex: 1;">
+   <div class="about-layout">
+         <div class="about-content">
             {{ .Content }}
          </div>
          {{ if .Params.image }}
-         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="max-width: 300px; height: auto; flex-shrink: 0;">
+         <img class="about-image" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
          {{ end }}
       </div>
 
    <style>
+      .about-layout {
+         display: flex;
+         gap: 30px;
+         align-items: flex-start;
+      }
+      .about-content {
+         flex: 1;
+      }
+      .about-image {
+         max-width: 300px;
+         height: auto;
+         flex-shrink: 0;
+      }
       @media (max-width: 768px) and (orientation: portrait) {
-         div[style*="display: flex"] {
+         .about-layout {
             flex-direction: column;
             gap: 20px;
             align-items: center;
          }
-         img {
-            max-width: 300px !important;
+         .about-image {
+            max-width: 300px;
          }
       }
    </style>
