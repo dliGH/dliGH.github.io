@@ -17,7 +17,7 @@
     {{ block "main" . }}{{ end }}
   </main>
 
-  {{ if not .IsHome }}
+  {{ if and (not .IsHome) (not .IsSection) (ne .Kind "taxonomy") (ne .Kind "term") }}
   <footer>
     {{ partial "footer.html" . }}
   </footer>
