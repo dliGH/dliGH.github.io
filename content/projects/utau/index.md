@@ -23,6 +23,8 @@ I tried finding one that would work with my voicebank, and of course it had to b
 
 Maybe I will one day revisit this project to create my own song with my voicebank, or maybe I can try out some of the [more modern stuff](https://dreamtonics.com/synthesizerv/).
 
+Disclaimer: All credit for music, music video and UST goes to the original creators, this is a derivative work. Specifically, the voicebank was developed myself.
+
 Citations:
 - [Bad Apple!!](https://en.touhouwiki.net/wiki/Lyrics:_Bad_Apple!!_(Alstroemeria_Records)) 
 - [Little Devil's Apple (小悪魔りんご)](https://en.touhouwiki.net/wiki/Lyrics:_%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%8A%E3%82%93%E3%81%94)
