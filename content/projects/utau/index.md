@@ -21,7 +21,7 @@ I tried finding one that would work with my voicebank, and of course it had to b
 
 {{< googledrive 16eKuhbfOcWmjE4oRLgDBqfU0PN3m5ec- >}}
 
-Maybe I will one day revisit this project to create my own song with my own voicebox, or maybe I can try out some of the [more modern stuff](https://dreamtonics.com/synthesizerv/).
+Maybe I will one day revisit this project to create my own song with my voicebank, or maybe I can try out some of the [more modern stuff](https://dreamtonics.com/synthesizerv/).
 
 Citations:
 - [Bad Apple!!](https://en.touhouwiki.net/wiki/Lyrics:_Bad_Apple!!_(Alstroemeria_Records)) 
