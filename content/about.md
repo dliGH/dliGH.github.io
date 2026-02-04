@@ -10,4 +10,4 @@ I recently graduated from the University of Chicago with degrees in Financial Ma
 
 I'm currently most interested in algorithmic trading and systematic investing. 
 
-In my free time I'm reading up on graph machine learning methods, trying to take care of myself better, and watching Culinary Class Wars season two.
+In my free time I'm reading up on graph machine learning methods, trying to take better care of myself, and watching Culinary Class Wars (S2).

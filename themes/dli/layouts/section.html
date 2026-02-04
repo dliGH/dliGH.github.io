@@ -1,6 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  
   {{ range .Pages }}
     <section>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
@@ -8,4 +9,5 @@
       <p>{{ .Date | time.Format "2006年1月2日" }}; {{ .ReadingTime }} min read</p>
     </section>
   {{ end }}
+
 {{ end }}
