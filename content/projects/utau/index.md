@@ -5,7 +5,7 @@ date: "2023-06-20"
 tags: ["music"]
 ---
 
-I suddenly discovered Vocaloid on YouTube when I was 6th grade, which led to a memorable school trip when I literally spammed four (4) songs on repeat. At the time it felt like Miku, Len, Rin, Kaito and Luka were the popular ones, at least those are the ones that I seem to remember most distinctly.
+I suddenly discovered Vocaloid on YouTube when I was in 6th grade, which led to a memorable school trip when I literally spammed four (4) songs on repeat. At the time it felt like Miku, Len, Rin, Kaito and Luka were the popular ones, at least those are the ones that I seem to remember most distinctly.
 
 {{< spotify 3cvsKKMeOqbA6DNW5teEmz >}}
 
