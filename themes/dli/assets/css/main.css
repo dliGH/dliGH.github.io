@@ -15,7 +15,7 @@ body {
 section {
   color: #000000;
   font-family: 'Times New Roman', Times, serif;
-  line-height: 0.5;
+  line-height: 1;
   margin: 0 auto;
   width: 100%;
   display: flex;
@@ -46,4 +46,25 @@ a:hover {
 main {
   flex: 1;
   width: 100%;
+}
+
+.post-preview {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
+.post-preview .summary {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
+
+.post-preview .meta {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.post-preview .title {
+  margin: 0.5rem 0;
 }
