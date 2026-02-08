@@ -21,7 +21,7 @@ Solo video project which scored in the Top 5% of submissions!
 
 Was the "Historian" of my high school band. Took photos during the marching band season and compiled them into this video to honor our graduating class.
 
-{{< googledrive 1wzNRFhe9vm-mNpeEOcWZaCiGekfkoTQ- 728 410 >}}
+{{< googledrive 1wzNRFhe9vm-mNpeEOcWZaCiGekfkoTQ- >}}
 
 --- 
 --- 
@@ -47,4 +47,4 @@ For church recognition day. Helped with scripting, filming, editing, some acting
 
 For middle school english final project. Helped with scripting, filming, editing, some acting. 
 
-{{< googledrive 1nuf_d1DA5S4AcGsgPg0bREcgR2KlTzBw 728 410 >}}
+{{< googledrive 1nuf_d1DA5S4AcGsgPg0bREcgR2KlTzBw >}}

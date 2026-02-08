@@ -1,3 +1,31 @@
-<div style="display: flex; justify-content: center;">
+<div class="googledrive-container">
   <iframe src="https://drive.google.com/file/d/{{ .Get 0 }}/preview" width="{{ .Get 1 | default "640" }}" height="{{ .Get 2 | default "480" }}" allow="autoplay; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
+
+<style>
+.googledrive-container {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.googledrive-container iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .googledrive-container iframe {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 728 / 410;
+  }
+}
+
+@media (min-width: 769px) {
+  .googledrive-container iframe {
+    width: {{ .Get 1 | default "728" }}px;
+    height: {{ .Get 2 | default "410" }}px;
+  }
+}
+</style>
