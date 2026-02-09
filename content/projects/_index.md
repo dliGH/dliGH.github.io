@@ -1,4 +1,4 @@
 ---
 title: "creating"
 ---
-Trying to make things.
+Trying to make things and other artful moments.

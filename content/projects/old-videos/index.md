@@ -7,9 +7,7 @@ tags: ["video"]
 
 Growing up I loved making videos, in all roles and capacities. Some are now lost to the annals of time, but here are some that are still around. 
 
---- 
---- 
-## 2020 
+# 2020 
 
 ### Junior Breakthrough Challenge 
 
@@ -17,25 +15,20 @@ Solo video project which scored in the Top 5% of submissions!
 
 {{< youtube id=X9tbF3Q0sXo >}}
 
-### Solon High School Band Year in Review 
+### Solon High School Band, Year in Review 
 
 Was the "Historian" of my high school band. Took photos during the marching band season and compiled them into this video to honor our graduating class.
 
 {{< googledrive 1wzNRFhe9vm-mNpeEOcWZaCiGekfkoTQ- >}}
 
---- 
---- 
-
-## 2017 
+# 2017 
 ### 200000 Years of History in Approximately 7 Minutes
 
 For AP World History Final Project. Helped with scripting, filming, editing, some acting.  
 
 {{< youtube id=Qjs2wRTCp9o >}}
 
---- 
---- 
-## 2016  
+# 2016
 
 ### The Bible Trailer
 
