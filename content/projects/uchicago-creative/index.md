@@ -11,6 +11,7 @@ Some final results may be omitted due to self-cringe or linkages-in-progress. Pl
 
 I joined [UChicago neXus](https://www.instagram.com/uchicagonexus/) to keep a promise to my high-school-self to try K-Pop dance in college. All listed songs are those that I learned in some capacity, at least a chorus.
 
+- BTS (방탄소년단) - 불타오르네 (FIRE) 
 - [BAEKHYUN 백현 - Candy](https://www.youtube.com/watch?v=VzmcJNMaDAE)
 - [WayV 威神V - 天选之城 (Moonwalk)](https://www.youtube.com/watch?v=1cUCzS-DCa8)
 - [NCT DREAM 엔시티 드림 - 맛 (Hot Sauce)](https://www.youtube.com/watch?v=Rksmj7y6wzc)
@@ -88,15 +89,17 @@ Even even even more K-Pop Dance. We recieved second place at [WFCTD](https://www
 - [XG - SHOOTING STAR](https://www.youtube.com/watch?v=GJoK7xFvM5E)
 - [BTS (방탄소년단) - DNA](https://www.youtube.com/watch?v=biMQI7fkC9Q)
 - [SHINee (샤이니) - Don't Call Me](https://www.youtube.com/watch?v=uuz6IjB0eSE)
-- [NCT DREAM - ISTJ](https://www.youtube.com/watch?v=ICXXFucBlhI)
+- [NCT DREAM 엔시티 드림 - ISTJ](https://www.youtube.com/watch?v=ICXXFucBlhI)
 - [XG - NEW DANCE](https://www.youtube.com/watch?v=TEjpU1agRUI)
 - Jungkook (정국) - Standing Next to You 
+- LE SSERAFIM (르세라핌) - EASY
 - VIVIZ (비비지) - MANIAC
 - SEVENTEEN(세븐틴) - SVT PERFORMANCE TEAM - 13월의 춤
 - (여자)아이들((G)I-DLE) - Nxde
 - ZEROBASEONE (제로베이스원) - MELTING POINT
+- SEVENTEEN (세븐틴) - 음악의 신
 
-I got to [model](https://www.instagram.com/p/C60R7qLO0nj/?img_index=1) for MODA again!
+I got to [model](https://www.instagram.com/p/C60R7qLO0nj/?img_index=1) for MODA again! Big shoutout to [my designer](https://www.instagram.com/metaphy110/).
 
 ## Masters: 2024-2025
 
