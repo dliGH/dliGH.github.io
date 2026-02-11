@@ -91,6 +91,7 @@ Even even even more K-Pop Dance. We recieved second place at [WFCTD](https://www
 - [SHINee (샤이니) - Don't Call Me](https://www.youtube.com/watch?v=uuz6IjB0eSE)
 - [NCT DREAM 엔시티 드림 - ISTJ](https://www.youtube.com/watch?v=ICXXFucBlhI)
 - [XG - NEW DANCE](https://www.youtube.com/watch?v=TEjpU1agRUI)
+- NewJeans (뉴진스) - ETA
 - Jungkook (정국) - Standing Next to You 
 - LE SSERAFIM (르세라핌) - EASY
 - VIVIZ (비비지) - MANIAC
