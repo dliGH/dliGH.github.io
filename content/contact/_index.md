@@ -8,3 +8,4 @@ You can reach me by:
 
 You can also find me on:
 - [GitHub](https://github.com/dliGH)
+- [Beli](https://beliapp.co/app/itsderk)

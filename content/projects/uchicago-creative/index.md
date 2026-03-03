@@ -85,7 +85,6 @@ Also, finally started exploring music and sound as an art form and subject by ta
 
 Even even even more K-Pop Dance. We recieved second place at [WFCTD](https://www.instagram.com/stories/highlights/18097329103404915/) (I made the audio for our set here too :D), first at UChicago neXus' [Konnex](https://www.instagram.com/p/C5l4GpaJ74r/?img_index=1), and first (+ most synchronized) at [KVersity](https://www.instagram.com/kversity_official/)'s [Dance Dance KVolution](https://www.instagram.com/p/C5xENoOsKoB/?img_index=1).
 
-
 - [XG - SHOOTING STAR](https://www.youtube.com/watch?v=GJoK7xFvM5E)
 - [BTS (방탄소년단) - DNA](https://www.youtube.com/watch?v=biMQI7fkC9Q)
 - [SHINee (샤이니) - Don't Call Me](https://www.youtube.com/watch?v=uuz6IjB0eSE)

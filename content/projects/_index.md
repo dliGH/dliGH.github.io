@@ -1,4 +1,4 @@
 ---
 title: "creating"
 ---
-Trying to make things and other artful moments.
+For the times I made things or did things. Artful and/or technical moments.    
