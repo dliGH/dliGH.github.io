@@ -21,10 +21,7 @@ Here is the first month of trying this. The time period of this post covers 0129
 - I called my other family members some times also, regular calls / FaceTime
 - I called some of my friends, doing interview prep, chatting about life
 - I discovered the fun of looking at properties on Zillow, just to see what living situtations are like
-<<<<<<< HEAD
-=======
 - I got the Citi Custom Cash credit card: no annual fee and 5% back on top category (I'm using it for restaurants)
->>>>>>> 7a9359b (Update February recaps)
 - I did Ski gear fitting for the first time (more to come in March recap)
 
 ## Consumption
@@ -36,11 +33,7 @@ Here is the first month of trying this. The time period of this post covers 0129
 ### Media 
 - All of Culinary Class Wars (S2)
     - Watching Paik Jong-Won judge and eat makes me really want to appreciate food more and enjoy eating food in my life
-<<<<<<< HEAD
-    - Watching Anh Sung-jae judge and eat makes me really want to critically think about what I'm eating and really evaluate and try to understand the flavors, fragrance, texture, etc. 
-=======
     - Watching Anh Sung-Jae judge and eat makes me really want to critically think about what I'm eating and really evaluate and try to understand the flavors, fragrance, texture, context, etc. 
->>>>>>> 7a9359b (Update February recaps)
     - Seeing the chefs so passionate about their craft and work makes me wish I could find something like that in my life
 - Jack of All Trades, Party of None 
     - I tend to watch some random trashy anime every once in a while, it's usually an isekai 
@@ -56,14 +49,11 @@ Here is the first month of trying this. The time period of this post covers 0129
     - Honestly I think I need to work on my doomscrolling / ultra stimulation / emotional overload escapism tendencies 
     - HOWEVER, one series which I thought was less brain-rotty that made me want to think more about interior design and aesthetics was [DAWN](https://www.youtube.com/@dawnworrybehappy)'s 내던내산! 
 
-<<<<<<< HEAD
-=======
 ### Music
 
 Some music I listened to during this time.
 
 {{< spotify 0PttWm6KMkZxIEcD9NQ5Ut >}}
->>>>>>> 7a9359b (Update February recaps)
 
 ### Food 
 - I've been eating a lot of bagel lox for breakfast.
@@ -72,22 +62,15 @@ Some music I listened to during this time.
 - A unique Peach Glazed Salmon dish (with mashed potatoes, seasonal vegetables, and a sweet peach glaze.)
 - Went to a tasty Korean retaurant which was (mostly) approved by a native Korean
 - A surprising amount of Costco food court food. 
-<<<<<<< HEAD
-=======
 - In-n-Out
     - Double double with animal style fries, idk if I'm getting old or something but it was way to salty for me and honestly not sure if can justify the price with inflation 
->>>>>>> 7a9359b (Update February recaps)
 - Ikea Swedish Meatballs
 
 ## Creation
 - I made this website :D 
 - [Mini audio project](/projects/bored)
 - I kind of learned the dance choreo for Exo's Crown and Ateez' Adrenaline
-<<<<<<< HEAD
-- I would like to do more creating than consuption... a goal for March I suppose
-=======
 - I would like to do more creating than consumption... a goal for March I suppose
->>>>>>> 7a9359b (Update February recaps)
 
 ## Statistics 
 - I started tracking some things! Bc progress is only easy to tell once data is tracked
