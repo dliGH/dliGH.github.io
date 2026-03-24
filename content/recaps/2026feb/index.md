@@ -62,6 +62,7 @@ Some music I listened to during this time.
 - A unique Peach Glazed Salmon dish (with mashed potatoes, seasonal vegetables, and a sweet peach glaze.)
 - Went to a tasty Korean retaurant which was (mostly) approved by a native Korean
 - A surprising amount of Costco food court food. 
+- A pho place that was really quite budget friendly
 - In-n-Out
     - Double double with animal style fries, idk if I'm getting old or something but it was way to salty for me and honestly not sure if can justify the price with inflation 
 - Ikea Swedish Meatballs
