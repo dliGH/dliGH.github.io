@@ -7,9 +7,9 @@ tags: ["personal", "food"]
 
 I recently reread [Toriko](https://en.wikipedia.org/wiki/Toriko) which was a manga I very much enjoyed when I was growing up. In the manga there is a concept of a "Full Course Menu" which is an individual's ultimate meal. It contains the following courses: Hors d'Oeuvre, Soup, Fish Dish, Meat Dish, Main Course, Salad, Dessert, Drink.
 
-This will be a living document as I out my ultimate. The dishes will be selected by the greatest taste impact I had whilst eating the dish / memorability. For now I will choose not include homemade dishes.
+This will be a living document as I build out my ultimate meal. The dishes will be selected by the greatest taste impact I had whilst eating the dish / memorability. For now I will choose not include homemade dishes.
 
-I have the following candidate dishes:
+I have determined some candidate dishes:
 - Hors d'Oeuvre 
 - Soup 
 - Fish Dish 
