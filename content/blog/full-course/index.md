@@ -11,7 +11,9 @@ This will be a living document as I build out my ultimate meal. The dishes will 
 
 I have determined some candidate dishes:
 - Hors d'Oeuvre 
+    - 红油抄手 (Hot & Spicy Wonton) from [66 Deluxe Green Bo](https://www.deluxegreentogo.com/?utm_source=redirect&utm_medium=deluxegreenbo.com) in New York, NY
 - Soup 
+    - 酸汤肥牛 (Chef Special Sour & Spicy Beef Tenderloin) from [Hunan Cuisine (湘乡香)](https://www.hunancusinechicago.com/) in Chicago, IL
 - Fish Dish 
     - Mini Poke Bowl from [Haruki Ramen & Izakaya](https://www.harukirestaurant.com/menu) in Norwalk, CT 
 - Meat Dish 
