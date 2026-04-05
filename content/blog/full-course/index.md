@@ -18,7 +18,6 @@ I have determined some candidate items:
 - Fish Dish 
     - Mini Poke Bowl from [Haruki Ramen & Izakaya](https://www.harukirestaurant.com/menu) in Norwalk, CT
     - Matcha Soba with Mackarel from [Ito Kyuemon](https://www.itohkyuemon.co.jp/corporate/shop/uji/?utm_source=google&utm_medium=gmb&utm_campaign=itohkyuemon-0001) in Uji, Japan
-    - Sushi from 
 - Meat Dish 
     - 高小爬 肉夹馍 (Gao Xiao Pa Rou Jia Mo) in Flushing, NY 
 - Main Course 
