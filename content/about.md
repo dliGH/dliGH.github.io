@@ -8,4 +8,4 @@ Hi, I'm Derek.
 
 I recently graduated from the University of Chicago with degrees in Financial Mathematics, Computer Science, and Economics. My professional background spans data science, machine learning, and software engineering in domains such as computational biology, aerospace embedded systems, financial crimes modeling, and bank treasury. 
 
-In my free time I'm trying to take better care of myself and reading The King's Avatar (全职高手).
+In my free time I'm trying to take better care of myself.
