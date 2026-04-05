@@ -8,7 +8,7 @@ tags: ["personal"]
 I wanted to delete these recaps because I thought they were too personal. But I decided to keep them up because I care more about looking back on these as memories than the cringe I feel from having other people read it. Though I might cringe at myself anyway.
 
 ## Events
-- I skied for the first time ever, and ended up skiing four times total at three different ski resorts. It was fun, but more physically demanding than expected. If there's a chance I would like to go back and learn to parallel ski so it's less strenuous on the legs. But for now I can confidently do greens. I learned the ideal ski length for me right now is 160 cm.
+- I skied for the first time ever, and ended up skiing four times total at three different ski resorts. It was fun, but more physically demanding than expected. If there's a chance I would like to go back and learn to parallel ski so it's less strenuous on the legs. For now I can do greens. I learned the ideal ski length for me right now is 160 cm.
 - Honestly that was the main highlight, the rest of the month has been pretty uneventful otherwise. 
     - I played this zombie FPS game on roblox with my youngest brother lol 
     - Visited some cats
@@ -32,7 +32,8 @@ I will say I feel like I consumed even more this month than February. GG what ha
     - Jane Street Podcast
 - [A fistful of Bitcoins: characterizing payments among men with no names](https://dl.acm.org/doi/abs/10.1145/2896384)
 - [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf)
-- [A graph placement methodology for fast chip design](https://www.nature.com/articles/s41586-021-03544-w)
+- [A graph placement methodology for fast chip design](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2021_2022/papers/Mirhoseini_NATURE_2021.pdf)
+    - Google Research
 
 ### Media 
 - Singles Inferno (S5) + random content coming out after
@@ -51,7 +52,7 @@ I will say I feel like I consumed even more this month than February. GG what ha
 - Easygoing Territory Defense by the Optimistic Lord
     - Some random Isekai I always end up watching
 - Blue Lock 
-    - Still reading
+    - Still following
 - Toriko
     - Food manga I read in middle school maybe, reread it for nostalgia
     - Furthering my appreciation of food after Culinary Class War
