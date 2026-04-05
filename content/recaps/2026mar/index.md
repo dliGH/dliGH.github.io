@@ -31,6 +31,7 @@ I will say I feel like I consumed even more this month than February. GG what ha
 - [Why ML Needs a New Programming Language](https://www.youtube.com/watch?v=4llyKNb_lak)
     - Jane Street Podcast
 - [A fistful of Bitcoins: characterizing payments among men with no names](https://dl.acm.org/doi/abs/10.1145/2896384)
+- [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf)
 - [A graph placement methodology for fast chip design](https://www.nature.com/articles/s41586-021-03544-w)
 
 ### Media 
@@ -74,7 +75,7 @@ Also the new Bruno Mars album and new BTS album.
 - Black Razzberry La Croix, tastes like nerds 
 - A ramen place which is actually owned by taiwanese people so they serve 卤肉饭 and 担仔面
 - Went to a Chinese breakfast place! 
-    - Basically homemade 豆奶，油条，蒸鸡蛋，豆腐花，饭团 so good
+    - Basically homemade 豆奶，油条，蒸水蛋，豆花，饭团 so good
 - Korean Fried Chicken
 - During my ski trip
     - a pho place (it was alright)
