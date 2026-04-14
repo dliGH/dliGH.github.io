@@ -2,7 +2,7 @@
 title: "march 2026"
 summary: "Still getting used to a new life"
 date: "2026-04-01"
-tags: ["personal"]
+tags: ["recaps"]
 ---
 
 I wanted to delete these recaps because I thought they were too personal. But I decided to keep them up because I care more about looking back on these as memories than the cringe I feel from having other people read it. Though I might cringe at myself anyway.

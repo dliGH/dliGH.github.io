@@ -2,7 +2,7 @@
 title: "february 2026"
 summary: "I guess this is adulthood"
 date: "2026-03-01"
-tags: ["personal"]
+tags: ["recaps"]
 ---
 
 Memory is falliable. This is a motivation for writing things down and crystalizing thoughts. I want to record unique events and new knowledge I've gained. It will be interesting to look back on what has gone on in my life. Things I've consumed, things I've created and so on. 

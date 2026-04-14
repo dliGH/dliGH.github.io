@@ -6,8 +6,19 @@
     <section class="post-preview">
       <h2 class="title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
       <p class="summary"> {{ .Summary }} </p>
-      <p class="meta">{{ .Date | time.Format "2006年1月2日" }}; {{ .ReadingTime }} min read</p>
+      {{ $metaValue := printf "%d min read" .ReadingTime }}
+      {{ if .IsSection }}
+        {{ $postCount := len .RegularPagesRecursive }}
+        {{ $metaValue = printf "%d posts" $postCount }}
+      {{ end }}
+      <p class="meta">
+        {{ if not .Date.IsZero }}{{ .Date | time.Format "2006年1月2日" }}; {{ end }}{{ $metaValue }}
+      </p>
     </section>
+  {{ end }}
+
+  {{ if and .Parent (ne .Parent.Kind "home") }}
+    <p><a href="{{ .Parent.RelPermalink }}">← Back to {{ .Parent.LinkTitle }}</a></p>
   {{ end }}
 
 {{ end }}

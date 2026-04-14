@@ -1,4 +1,4 @@
 ---
-title: "monthly recaps"
+title: "life recaps"
 ---
-Tracking life developments month over month. 
+Tracking life developments. 
