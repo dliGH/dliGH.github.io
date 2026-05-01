@@ -5,7 +5,7 @@ date: "2025-12-11"
 tags: ["dance", "music", "fashion", "video"]
 ---
 
-Some final results may be omitted due to self-cringe or linkages-in-progress. Please contact me if interested or want additional details.
+Some final results may be omitted due to self-cringe.
 
 ## First Year: 2020-2021
 
@@ -55,9 +55,9 @@ Even more K-Pop Dance. We recieved third place at [WFCTD](https://www.instagram.
 - ITZY - LOCO
 - [ATEEZ (에이티즈) - WAVE](https://www.youtube.com/watch?v=NQUJui2NHM0)
 
-Also, finally started exploring music and sound as an art form and subject by taking some courses at school. 
+Also, finally got to explore music and sound as an art form and subject by taking some courses at school (beyond musical performance I did growing up)
 
-- Here is my work for Electronic Music: Composing with Sound (MUSI 26618).
+- Here is my work for Electronic Music: Composing with Sound (MUSI 26618), we recieved various prompts as our assignments and these are the results.
 
 {{< audio "dli_electronicmusic_composition1.wav" >}}
 

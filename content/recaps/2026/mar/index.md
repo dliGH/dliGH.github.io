@@ -34,35 +34,38 @@ I will say I feel like I consumed even more this month than February. GG what ha
 - [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://smeiklej.com/files/usenix22.pdf)
 - [A graph placement methodology for fast chip design](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2021_2022/papers/Mirhoseini_NATURE_2021.pdf)
     - Google Research
+- Volatility Trading by Euan Sinclair
 
 ### Media 
-- Singles Inferno (S5) + random content coming out after
-    - Weird how the contestants are around my age now
-- King's Avatar (全职高手)
-    - Finished it this month! A solid read. Wish they had more.
-- Jack of All Trades, Party of None 
-    - Finished this anime from last month
-- Love Through a Prism
-    - First romance anime in a long time
-    - Animated by Studio Wit (who did AOT LOL) and distributed via Netflix
-    - Art is really really good
-- Bakemonogatari
-    - Some insane anime my friend rec'd
-    - Animated by Studio Shaft same studio as Madoka Magica
-- Easygoing Territory Defense by the Optimistic Lord
-    - Some random Isekai I always end up watching
-- Blue Lock 
-    - Still following
-- Toriko
-    - Food manga I read in middle school maybe, reread it for nostalgia
-    - Furthering my appreciation of food after Culinary Class War
-- Yowamushi Pedal
-    - Cycling sports manga, read through the first arc 
-- Release That Witch
-    - Originally a chinese webnovel
-    - Watched a couple episodes of the donghua, very surprised it got an adaptation
-- Still too much YouTube and Instagram
-    - Did watch interesting panel going through history of [Anime Sakuga](https://www.youtube.com/watch?v=5ikHAMDbXlc&list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg&index=1) 
+- Watching
+    - Singles Inferno (S5) + random content coming out after
+        - Weird how the contestants are around my age now
+    - Jack of All Trades, Party of None 
+        - Finished this anime from last month
+    - Love Through a Prism
+        - First romance anime in a long time
+        - Animated by Studio Wit (who did AOT LOL) and distributed via Netflix
+        - Art is really really good
+    - Bakemonogatari
+        - Some insane anime my friend rec'd
+        - Animated by Studio Shaft same studio as Madoka Magica
+    - Easygoing Territory Defense by the Optimistic Lord
+        - Some random Isekai I always end up watching
+    - Release That Witch
+        - Originally a chinese webnovel
+        - Watched a couple episodes of the donghua, very surprised it got an adaptation
+    - Still too much YouTube and Instagram
+        - Did watch interesting panel going through history of [Anime Sakuga](https://www.youtube.com/watch?v=5ikHAMDbXlc&list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg&index=1) 
+- Reading 
+    - King's Avatar (全职高手)
+        - Finished it this month! A solid read. Wish they had more.
+    - Blue Lock 
+        - Still following
+    - Toriko
+        - Food manga I read in middle school maybe, reread it for nostalgia
+        - Furthering my appreciation of food after Culinary Class War
+    - Yowamushi Pedal
+        - Cycling sports manga, read through the first arc 
 
 ### Music
 
