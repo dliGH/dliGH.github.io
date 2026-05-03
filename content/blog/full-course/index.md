@@ -7,12 +7,14 @@ tags: ["personal", "food"]
 
 I recently reread [Toriko](https://en.wikipedia.org/wiki/Toriko) which was a manga I very much enjoyed when I was growing up. In the manga there is a concept of a "Full Course Menu" which is an individual's ultimate meal. It contains the following courses: Hors d'Oeuvre, Soup, Fish Dish, Meat Dish, Main Course, Salad, Dessert, Drink.
 
-This will be a living document as I build out my ultimate meal. The dishes will be selected by the greatest taste impact I had whilst eating the dish / memorability. For now I will choose not include homemade dishes.
+This will be a living document as I build out my ultimate meal. The dishes will be selected by the greatest taste impact I had whilst eating the dish / memorability. 
 
-I have determined some candidate items:
+Honestly after mulling over it, this is just a list of food that I ate which I thought were pretty good in terms of initial impression (i.e. the difference between my expectations and what I experienced). This list only considers food from restaurants and not homemade food.
+
 - Hors d'Oeuvre 
     - 红油抄手 (Hot & Spicy Wonton) from [66 Deluxe Green Bo](https://www.deluxegreentogo.com/?utm_source=redirect&utm_medium=deluxegreenbo.com) in New York, NY
     - Terrine De Foies De Volailles from French Rotisserie Café in Palm Springs, CA
+    - Cicchetti from this place in Venice, will try to find it
 - Soup 
     - 酸汤肥牛 (Chef Special Sour & Spicy Beef Tenderloin) from [Hunan Cuisine (湘乡香)](https://www.hunancusinechicago.com/) in Chicago, IL
 - Fish Dish 
@@ -21,13 +23,14 @@ I have determined some candidate items:
 - Meat Dish 
     - 高小爬 肉夹馍 (Gao Xiao Pa Rou Jia Mo) in Flushing, NY 
 - Main Course 
-    - Thinking...
+    - WIP 
 - Salad 
-    - Thinking...
+    - WIP
 - Dessert 
     - Ube Cream Puff from [Kasama Bakery](https://www.kasamachicago.com/) in Chicago, IL
     - Egg Tart and Lychee Ice Cream from [The Original Chinatown Ice Cream Factory](https://www.chinatownicecreamfactory.com/) in New York, NY
-- Drink 
+    - There was this tiramisu and panna cotta I had in Italy which was banger, will also try to remember where I ate them
+- Drinks 
     - Non-Alcoholic
         - Pocari Sweat
         - Yuzu Squash
@@ -37,4 +40,23 @@ I have determined some candidate items:
         - Sprite + Yakult + Soju mixed drink
         - Hugo Spritz
         - Fratelli Cosmo Prosecco 
-        - Lemon Sour
+
+If I only considered homemade food it would be:
+
+- Hors d'Oeuvre 
+    - Some kind of carb
+- Soup 
+    - 奶奶's 混沌汤 / 羊肉汤 (grandma's wonton soup or mutton soup)
+- Fish Dish 
+    - Mom's 酸菜鱼 (fish with pickled mustard greens)
+    - Lowkey I think she just used a pack you can get from the supermarket, but it was really good I would eat so much 
+- Meat Dish 
+    - Nothing comes to mind right now
+- Main Course 
+    - 姥姥's 手工面 (grandma's hand pulled noodles)
+- Salad 
+    - Nothing comes to mind right now
+- Dessert 
+    - Only thing that comes to mind right now is 豆沙包 (red bean bun)
+- Drinks 
+    - Homemade Soy Milk
