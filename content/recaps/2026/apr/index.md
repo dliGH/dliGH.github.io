@@ -38,7 +38,7 @@ Anyways here are some things I did do.
         - I can't believe I've been watching this show on and off now for 10 years 
     - Cardfight!! Vanguard: Link Joker and Cardfight!! Vanguard: Legion Mate
         - A nostalgia trip
-    - I feel like I used Instagram a lot less this month which is good, but there was one day which I tried summoning Chinese reels with the algorithm and it was pretty funny / good practice for Chinese listening and reading comprehension
+    - I feel like I used Instagram a lot less this month which is good, but there was one day which I tried summoning Chinese reels with the algorithm and it was pretty funny / good practice for Mandarin listening and reading comprehension
 - Reading
     - Monster Eater webtoon
     - The Necromancer Family's Young Heir webtoon
