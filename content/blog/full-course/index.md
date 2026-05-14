@@ -14,7 +14,7 @@ Honestly after mulling over it, this is just a list of food that I ate which I t
 - Hors d'Oeuvre 
     - 红油抄手 (Hot & Spicy Wonton) from [66 Deluxe Green Bo](https://www.deluxegreentogo.com/?utm_source=redirect&utm_medium=deluxegreenbo.com) in New York, NY
     - Terrine De Foies De Volailles from French Rotisserie Café in Palm Springs, CA
-    - Cicchetti from this place in Venice, will try to find it
+    - Cicchetti from this place in Venice, will try to find the name
 - Soup 
     - 酸汤肥牛 (Chef Special Sour & Spicy Beef Tenderloin) from [Hunan Cuisine (湘乡香)](https://www.hunancusinechicago.com/) in Chicago, IL
 - Fish Dish 
@@ -23,9 +23,9 @@ Honestly after mulling over it, this is just a list of food that I ate which I t
 - Meat Dish 
     - 高小爬 肉夹馍 (Gao Xiao Pa Rou Jia Mo) in Flushing, NY 
 - Main Course 
-    - WIP 
+    - Not sure what would be the best main course at the moment
 - Salad 
-    - WIP
+    - Haven't really had any impactful salads to be honest
 - Dessert 
     - Ube Cream Puff from [Kasama Bakery](https://www.kasamachicago.com/) in Chicago, IL
     - Egg Tart and Lychee Ice Cream from [The Original Chinatown Ice Cream Factory](https://www.chinatownicecreamfactory.com/) in New York, NY
@@ -40,23 +40,3 @@ Honestly after mulling over it, this is just a list of food that I ate which I t
         - Sprite + Yakult + Soju mixed drink
         - Hugo Spritz
         - Fratelli Cosmo Prosecco 
-
-If I only considered homemade food it would be:
-
-- Hors d'Oeuvre 
-    - Some kind of carb
-- Soup 
-    - 奶奶's 混沌汤 / 羊肉汤 (grandma's wonton soup or mutton soup)
-- Fish Dish 
-    - Mom's 酸菜鱼 (fish with pickled mustard greens)
-    - Lowkey I think she just used a pack you can get from the supermarket, but it was really good I would eat so much 
-- Meat Dish 
-    - Nothing comes to mind right now
-- Main Course 
-    - 姥姥's 手工面 (grandma's hand pulled noodles)
-- Salad 
-    - Nothing comes to mind right now
-- Dessert 
-    - Only thing that comes to mind right now is 豆沙包 (red bean bun)
-- Drinks 
-    - Homemade Soy Milk

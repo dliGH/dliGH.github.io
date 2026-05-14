@@ -1,10 +1,8 @@
 ---
 title: "i'm bored"
-summary: "Mini projects materialized into existence out of boredom and/or inspiration"
+summary: "Boredom as the source of creativity"
 date: "2026-02-21"
 tags: ["music"]
 ---
-
-Boredom as the source of creativity.  
 
 - 20260220 [andrenaline whiplash](https://www.instagram.com/reel/DVADpMkDZHZ/?igsh=MTE5YzcxbXVsYzNuNw==): a mini audio edit of an Ateez song and an Aespa song
