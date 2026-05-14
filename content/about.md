@@ -1,11 +1,15 @@
 ---
-title: "about me"
+title: "about"
 layout: "about"
 image: "images/me.webp"
 ---
 
-Hi, I'm Derek.
+Hi, I'm Derek 德睿.
 
-I recently graduated from the University of Chicago with degrees in Financial Mathematics, Computer Science, and Economics. My professional background spans data science, machine learning, and software engineering in domains such as computational biology, aerospace embedded systems, financial crimes modeling, and bank treasury. 
+University of Chicago graduate (MS Financial Mathematics, BS Computer Science and BA Economics).
+
+Incoming quantitative trader. 
+
+Previously {data science, machine learning, software engineering} × {computational biology, aerospace embedded systems, financial crimes modeling, bank treasury}.  
 
 In my free time I'm trying to take better care of myself.

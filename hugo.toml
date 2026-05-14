@@ -24,11 +24,6 @@ enableGitInfo = true
         weight = 30
 
     [[menus.main]]
-        name = 'recaps'
-        url = '/recaps' 
-        weight = 40
-
-    [[menus.main]]
         name = 'contact'
         url = '/contact'
         weight = 50
