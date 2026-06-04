@@ -5,7 +5,7 @@ date: "2025-12-11"
 tags: ["dance", "music", "fashion", "video"]
 ---
 
-Some final results may be omitted due to self-cringe.
+Some project results may have been omitted due to self-cringe.
 
 ## First Year: 2020-2021
 

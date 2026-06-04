@@ -1,4 +1,6 @@
 ---
 title: "creating"
 ---
-For the times I made things or did things. Artful and/or technical moments.    
+A collection of various projects. 
+
+Mostly, if not all, non-professional at the moment.
