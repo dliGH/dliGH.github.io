@@ -4,9 +4,9 @@ summary: "Save money"
 tags: ["money", "sports"]
 ---
 
-When skiing the main costs are gonna be car and housing. Upfront costs are gonna be clothes which you can probably get decent enough stuff for less than $150 total (outer shell, inner layer, pants, helmet, gloves, goggles). Assuming you have those, this is one of the cheapest ways to enjoy skiing in Denver as a one day skiing sort of set up.
+When skiing in Denver the main costs will be a car for transportation and housing. Upfront costs is generally clothing. You can probably get decent enough stuff for less than $150 total. This includes an outer shell, inner layer, pants, helmet, gloves, socks and goggles. Assuming you have those, this is one of the cheapest ways to enjoy skiing in Denver.
 
-If you go enough times obviously getting an annual pass and your own equipment is more worth. 
+If you are able to go enough times obviously getting an annual pass and your own equipment is better value long-term. 
 
 Rent skis from [Blue Valley Ski](https://www.bluevalleyski.com/) in Silverthorne. You can get skis for $25 to $30. Will come with boots. This is cheapest rental place I've seen.
 
