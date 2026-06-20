@@ -20,8 +20,9 @@ The dishes will be the best tasting food I've ever had. Part of the consideratio
 - Main Course 
     - I don't really have one in mind right now
 - Salad 
-    - I haven't really had any impactful salads to be honest, I may consider vegetable dishes more generally but need to think about it
+    - Wild Mushrooms from [Kindling](https://www.kindlingchicago.com) in Chicago, IL
+    - If I consider vegetable dishes under "salads" this was a surprisingly good item I had recently
 - Dessert 
     - Egg Tart and Lychee Ice Cream from [The Original Chinatown Ice Cream Factory](https://www.chinatownicecreamfactory.com/) in New York, NY
 - Drink
-    - I also haven't really had too many special drinks
+    - I haven't really had too many special drinks
