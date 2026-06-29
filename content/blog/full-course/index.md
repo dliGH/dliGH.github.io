@@ -17,6 +17,7 @@ The dishes will be the best tasting food I've ever had. Part of the consideratio
     - Fried Calamari from [The Rouga](https://rouga.com.gr/) in Thessaloniki, Greece
 - Meat Dish 
     - 高小爬 肉夹馍 (Gao Xiao Pa Rou Jia Mo) in Flushing, NY 
+    - This dish selection is actually getting competitive as I am a fan of tartare and steaks, I may need to reconsider
 - Main Course 
     - I don't really have one in mind right now
 - Salad 
@@ -25,4 +26,5 @@ The dishes will be the best tasting food I've ever had. Part of the consideratio
 - Dessert 
     - Egg Tart and Lychee Ice Cream from [The Original Chinatown Ice Cream Factory](https://www.chinatownicecreamfactory.com/) in New York, NY
 - Drink
-    - I haven't really had too many special drinks
+    - I haven't really had too many "special" drinks
+    - But some considerations: My go to soda is Coke Zero, I have a weird fondness of Pocari Sweat, I enjoy sparkling water and sweet wines.

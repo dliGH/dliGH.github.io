@@ -1,6 +1,6 @@
 ---
 title: "creating"
 ---
-A collection of various projects. 
+A collection of completed projects. 
 
-Mostly, if not all, non-professional at the moment.
+Mostly, if not all, non-professional.

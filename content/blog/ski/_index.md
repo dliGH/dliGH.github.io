@@ -1,6 +1,6 @@
 ---
 title: "i went skiing for the first time"
-summary: "& Reflections thoughts"
+summary: "Some reflections and thoughts"
 date: "2026-04-13"
 ---
 
