@@ -6,7 +6,7 @@ image: "images/me.webp"
 
 Hi, I'm Derek.
 
-I'm a University of Chicago graduate and currently work as a quantitative trader.
+I'm a University of Chicago graduate and currently work as a quantitative trader at an options market making firm.
 
 My previous experience spans data science, machine learning, and software engineering in domains including computational biology, aerospace embedded systems, financial crimes modeling, and bank treasury.
 
